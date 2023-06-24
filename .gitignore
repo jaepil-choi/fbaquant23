@@ -185,6 +185,14 @@ pip-selfcheck.json
 # Built Visual Studio Code Extensions
 *.vsix
 
-## Exclude big data_teamwork data
+## Exclude large data_teamwork directory
 s1.2ap/data_teamwork/data/
+
+## Exclude individual large files
+Header.csv
+Market.csv
+Size_Factor.csv
+Value_Factor.csv
+
+## sandbox
 sandbox.*
