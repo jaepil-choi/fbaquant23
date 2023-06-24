@@ -187,3 +187,4 @@ pip-selfcheck.json
 
 ## Exclude big data_teamwork data
 s1.2ap/data_teamwork/data/
+sandbox.*
