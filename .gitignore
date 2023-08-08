@@ -188,11 +188,11 @@ pip-selfcheck.json
 ## Exclude large data_teamwork directory
 s1.2ap/data_teamwork/data/
 
-## Exclude individual large files
-Header.csv
-Market.csv
-Size_Factor.csv
-Value_Factor.csv
+## Exclude data files
+*.csv
+
+## Exclude media files
+*.mp4
 
 ## sandbox
 sandbox.*
