@@ -1,0 +1,56 @@
+An In-Depth Look at Tesla's New Traffic Lights and Speed Camera Icons: All Possible Icons and What They Mean
+December 20, 2023
+By Kevin Armstrong
+
+Tesla’s latest software update, version 2023.44.30.4. improves Tesla maps by integrating icons for traffic lights, stop signs and more directly onto the map.
+
+The new icons help drivers be more aware of what their route looks like and what’s coming up next, potentially warning them of hidden stop signs or speed cameras.
+
+All Icons And Their Meanings
+There’s a lot more to this feature than just displaying traffic lights and stop signs. Tesla is displaying a large array of various conditions. According to Greentheonly, Tesla is displaying up to 11 different icons on its maps. The various icons you may see include:
+
+Average Speed Camera - Instead of recording your speed at a specific moment in time, these systems use two or more cameras to determine your average speed between two points. If your average speed is higher than the speed limit, then you were speeding and may be ticketed.
+
+Caution Lights - It’s not clear what this icon represents, but it may be used to identify flashing yellow lights
+
+Construction - An icon that alerts you of recent construction areas
+
+Danger Zone - A danger zone is defined by local law and provided by the local government. It’s only available in select regions.
+
+Fixed Speed Camera - Fixed speed cameras capture a vehicle’s speed at a specific location.
+
+Mobile Speed Camera - A mobile speed camera is when a speed camera is mounted to a vehicle instead of being a part of the city structure.
+
+Police - An icon that may display the location of police or police departments
+
+Red Light Speed Camera - A red light speed camera is usually mounted on traffic lights or near the intersection. The camera aims to capture the license plate of any vehicles crossing the intersection if the light has turned red.
+
+Speed Camera (generic) - This appears to be a generic icon for speed cameras on the map. It’s possibly used if Tesla doesn’t know the type of speed camera at the location.
+
+Stop Sign - A traditional stop sign. It’d be a great addition if Tesla could include whether the intersection has a stop sign in all directions or if the crossing street doesn’t stop.
+
+Traffic Light - A traffic light with more than one light
+
+The actual icons available and displayed are dependent on your region. Not all icons are available in all regions.
+
+Data and Requirements
+Unfortunately, this feature is not available to everyone. It’s limited to specific regions where the data is available (check out our release notes to see if it’s available in your region). However, it also requires owners to subscribe to Tesla’s Premium Connectivity service at $10/month in the US. Contrary to some other information going around, this feature does not require the latest map data.
+
+Although it does require drivers to have Online Routing enabled to view this new data. To activate or see if you have online routing enabled, you can go to Controls > Navigation and confirm Online Routing is turned on.
+
+While Tesla can determine traffic lights and stop signs using machine learning, they’re likely buying this additional data through an existing provider, which is why they’re requiring Premium Connectivity to use it.
+
+How and When Icons are Displayed
+The new icons are only displayed along your route and not on adjacent streets. This helps keep the display clean and easy to read, however, it could be useful to know where other traffic lights and stop signs are located when trying to find a faster route.
+
+The icons on the map also disappear as you approach the item. So any traffic lights or speed cameras you recently passed are no longer displayed.
+
+Tesla will also warn you about upcoming speed cameras above the next turn module.
+
+You can now view stop signs, traffic lights and speed camera locations along your route
+You can now view stop signs, traffic lights and speed camera locations along your route
+DirtyTesla / TeslaRedThunder
+Future Enhancements
+Besides enhanced awareness of your surroundings and upcoming situations, these icons could also be used to aid in driving directions. Navigation system directions could sometimes be clearer and knowing where stop signs and traffic lights are could be an aid used in voice guidance. For example, instead of saying turn left onto Main St, it could use a traffic light as guidance and say turn left at the traffic light, or your destination will be on the right after the stop sign.
+
+This is not something Tesla currently does, but this information leaves the door open for future enhancements.

@@ -1,0 +1,89 @@
+Tesla Cybertruck deliveries hostage to battery production hell
+By Norihiko Shirouzu and Paul Lienert
+December 22, 202312:07 AM GMT+9Updated 2 days ago
+
+
+
+
+[1/6]Tesla's new Cybertruck is shown on display at a Tesla store in San Diego, California, U.S., December 9, 2023. REUTERS/Mike Blake Acquire Licensing Rights
+
+
+
+AUSTIN, Texas, Dec 21 (Reuters) - Elon Musk says prototypes are easy, production is hell. And when it comes to the long-awaited Cybertruck, Tesla's hell is its pioneering 4680 battery.
+
+Tesla delivered the first of its futuristic stainless steel-plated electric pickups last month and CEO Musk said in October that it would probably hit an annual production rate of a quarter of a million vehicles at some point during 2025.
+
+But Tesla is still a long way off that kind of production pace, and one of the main bottlenecks is the speed it can make the 4680 batteries used in the Cybertruck with its new dry-coating technology, nine people familiar with the matter said.
+
+Advertisement · Scroll to continue
+Tesla's Giga Texas factory is currently churning out 4680 battery cells at rate only sufficient to power about 24,000 Cybertrucks a year, or about a 10th of the required output, according to Reuters calculations based on a combination of public data and unpublished figures provided by sources.
+
+Being able to ramp up battery output massively by dry-coating electrodes - rather than using the slower, more costly wet-coating - was a key factor behind Tesla's forecasts in 2020 that it would more than halve battery costs, cut investment significantly, and create smaller, greener factories.
+
+Advertisement · Scroll to continue
+The nine people, who spoke to Reuters on condition of anonymity because of the sensitivity of the matter, said Tesla had yet to crack dry-coating at the industrial scale needed to make 4680 batteries fast enough to hit its production targets.
+
+The people said dry-coating the anode in the 4680 cells was not problematic but Tesla was struggling with the same technique for the cathode - the most expensive component in a battery.
+
+Advertisement · Scroll to continue
+Dry-coating anodes and cathodes is proven in the laboratory, as well as for smaller energy storage devices such as super capacitors, and even some small batteries, according to Yuan Gao, a battery technology consultant.
+
+"But no one has done it so far for large EV batteries at a mass scale and at a high enough speed. Tesla is the first one to try to commercialize this," said Gao, who has worked in the industry for three decades.
+
+"The challenge is that not only does Tesla have to scale it up and speed up the process, it also must develop its own equipment and tools. It's daunting to say the least," he said.
+
+Tesla did not respond to detailed questions from Reuters for this story.
+
+CRACKING THE CODE
+According to three of the sources, the 4680 batteries in Cybertrucks include an estimated 1,360 individual cells.
+
+That means Tesla would need to make 340 million cells a year, or almost a million a day, to supply 250,000 of the electric pickups, which are entering a hot market with rivals such as Ford's (F.N) F-150 Lightning, Rivian's (RIVN.O) R1T and an electric Hummer from General Motors (GM.N).
+
+At the moment, Tesla's Austin factory takes about 16 weeks to make 10 million 4680 cells, according to Reuters calculations based on figures from Tesla, verified by the three sources.
+
+That translates to 32.5 million cells a year, or enough for just under 24,000 pickups - and that's only for the Cybertruck.
+
+Tesla also wants to use 4680 batteries to power other vehicles, most notably the $25,000 small car the company is scrambling to launch by the mid-2020s.
+
+Tesla has some limited production capacity for 4680 cells in Fremont, California but its plant there is mainly for pilot production. Panasonic (6752.T), one of Tesla's long-standing battery suppliers, is planning to build at least two plants in the United States but has only just broken ground on the first.
+
+Two of the nine people familiar with the matter believe Tesla's progress with scaling up 4680 production will likely gain steam, especially once it achieves stability with the production know-how on one production line.
+
+They said Tesla had been focusing on establishing robust know-how to produce batteries without flaws first time round. It's a time-consuming process but, "once you crack the code and establish stability, it is like exponential", one of them said.
+
+"Speed would pick up. There is already a lot of traction in dry coating," the person said.
+
+Tesla's battery tsar Drew Baglino said in October that the company was now producing 4680 cells on two production lines in Austin and plans to install a total of eight lines there in two phases, with the last four due to be running in late 2024.
+
+Still, one of the two people said replicating established know-how from one production line to the next is no cakewalk.
+
+The source said only about 5% of cells made on profitable production lines are ditched but scrap rates could shoot up to 30%-50% and hover there for several months as each new line gets going.
+
+One of the sources said Tesla's dry-coating method for cathodes was not proving to be any faster than the old wet process, though scrap rates had dropped to as low as 10% to 20%.
+
+Baglino did not respond to requests for comment for this story.
+
+'GOOEY MESS'
+The sources said Tesla was struggling to mix the cathode materials, which include lithium, manganese and nickel, with a binder and stick them to a metallic foil to produce a cathode - without using moisture.
+
+Two of the people said the process worked for small amounts but when Tesla tried to scale it up, a lot of heat was generated and this melted the binder, which one of the sources believed was polytetrafluoroethylene, more commonly known as Teflon.
+
+"If you melt the glue, pretty soon everything will become one big chunk of gooey mess," another of the sources said.
+
+Equally problematic for Tesla are the machines used to coat the metallic foil to produce battery electrodes - equipment which is akin to huge magazine and newspaper printing machines with large rollers, the sources said.
+
+To accelerate cell production, Tesla is trying to coat multiple strips of magnetic foil with active battery materials at the same time, and at high speeds.
+
+That calls for large, wide rollers, as well as applying tremendous force to press the materials onto the foil. But because the rollers are large and wide, applying pressure evenly is proving to be a challenge, the sources said.
+
+And when pressure is not applied evenly, Tesla gets electrodes with uneven surfaces and thickness, which are no use for its battery cells and need to be scrapped, the sources said.
+
+Perhaps more problematic, Tesla's Baglino told a fireside chat at a battery conference in March that Tesla was still building a completely new quality verification system so they could weed out cells with flaws in coating.
+
+One of the sources with knowledge of the matter, said specifically it was about building data infrastructure around Tesla's battery development, manufacturing and in-field use because in some cases the flaws were hidden in the coating and did not show up for a few months down the road.
+
+In other words, Tesla doesn't quite know yet which dry cells are good, and which ones need to be junked, the source said.
+
+Reporting by Norihiko Shirouzu in Austin and Paul Lienert in Detroit; Editing by David Clarke
+
+Our Standards: The Thomson Reuters Trust Principles.

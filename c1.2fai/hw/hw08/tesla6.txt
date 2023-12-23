@@ -1,0 +1,55 @@
+Tesla’s recall of 2 million cars relies on a fix that may not even work
+BYTOM KRISHER AND THE ASSOCIATED PRESS
+December 20, 2023 at 8:27 AM GMT+9
+
+Tesla’s recall of more than 2 million of its electric vehicles — an effort to have drivers who use its Autopilot system pay closer attention to the road — relies on technology that research shows may not work as intended.
+
+Tesla, the leading manufacturer of EVs, reluctantly agreed to the recall last week after a two-year investigation by the U.S. National Highway Traffic Safety Administration found that Tesla’s system to monitor drivers was defective and required a fix.
+
+Related Video
+
+The system sends alerts to drivers if it fails to detect torque from hands on the steering wheel, a system that experts describe as ineffective.
+
+Government documents filed by Tesla say the online software change will increase warnings and alerts to drivers to keep their hands on the steering wheel. It also may limit the areas where the most commonly used versions of Autopilot can be used, though that isn’t entirely clear in Tesla’s documents.
+
+NHTSA began its investigation in 2021, after receiving 11 reports that Teslas that were using the partially automated system crashed into parked emergency vehicles. Since 2016, the agency has sent investigators to at least 35 crashes in which Teslas that were suspected of operating on a partially automated driving system hit parked emergency vehicles, motorcyclists or tractor trailers that crossed in the vehicles’ paths, causing a total of 17 deaths.
+
+But research conducted by NHTSA, the National Transportation Safety Board and other investigators show that merely measuring torque on the steering wheel doesn’t ensure that drivers are paying sufficient attention. Experts say night-vision cameras are needed to watch drivers’ eyes to ensure they’re looking at the road.
+
+“I do have concerns about the solution,” said Jennifer Homendy, the chairwoman of the NTSB, which investigated two fatal Florida crashes involving Teslas on Autopilot in which neither the driver nor the system detected crossing tractor trailers. “The technology, the way it worked, including with steering torque, was not sufficient to keep drivers’ attention, and drivers disengaged.”
+
+In addition, NHTSA’s investigation found that out of 43 crashes it examined with detailed data available, 37 drivers had their hands on the wheel in the final second before their vehicles crashed, indicating that they weren’t paying sufficient attention.
+
+“Humans are poor at monitoring automated systems and intervening when something goes awry,” said Donald Slavik, a lawyer for plaintiffs in three lawsuits against Tesla over Autopilot. “That’s why the human factors studies have shown a significant delayed response under those conditions.”
+
+Missy Cummings, a professor of engineering and computing at George Mason University who studies automated vehicles, said it’s widely accepted by researchers that monitoring hands on the steering wheel is insufficient to ensure a driver’s attention to the road.
+
+“It’s a proxy measure for attention and it’s a poor measure of attention,” she said.
+
+A better solution, experts say, would be to require Tesla to use cameras to monitor drivers’ eyes to make sure they’re watching the road. Some Teslas do have interior-facing cameras. But they don’t see well at night, unlike those in General Motors or Ford driver monitoring systems, said Philip Koopman, a professor at Carnegie Mellon University who studies vehicle automation safety.
+
+Koopman noted that older Teslas lack such cameras.
+
+Tesla’s recall documents say nothing about increased use of cameras. But the company’s software release notes posted on X, formerly Twitter, say that a camera above the rearview mirror can now determine whether a driver is paying attention and trigger alerts if they aren’t. Tesla, which has no media relations department, didn’t answer emailed questions about the release notes or other recall-related issues.
+
+Tesla’s website says that Autopilot and more sophisticated “Full Self Driving” software cannot drive themselves and that drivers must be ready to intervene.
+
+Experts say that although limiting where Autopilot can operate to controlled access highways would help, it’s unclear whether Tesla will do so with its recall.
+
+In the recall documents it filed with NHTSA, Tesla says its basic Autopilot includes systems called Autosteer and Traffic Aware Cruise Control. The documents say that Autosteer is intended for use on controlled access highways and won’t work when a driver activates it under the wrong conditions. The software update, the documents say, will have “additional checks upon engaging Autosteer and while using the feature outside controlled access highways and when approaching traffic controls.”
+
+Cummings noted that doesn’t specifically say Tesla will limit areas where Autopilot can work to limited-access freeways — a concept known as “geofenced.”
+
+“When they say conditions, nowhere does that say geofenced,” she said.
+
+Kelly Funkhouser, associate director of vehicle technology for Consumer Reports, said she was able to use Autopilot on roads that weren’t controlled access highways while testing a Tesla Model S that received the software update. But it’s difficult, she said, to test everything else in the recall because Tesla has been vague on exactly what it’s changing.
+
+Homendy, the chairwoman of the transportation safety board, said she hopes NHTSA has reviewed Tesla’s solution to determine whether it does what the agency intended it to do.
+
+The NTSB, which can make only recommendations, will investigate if it sees a problem with Teslas that received the recall repairs, Homendy said.
+
+Veronica Morales, NHTSA’s communications director, said the agency doesn’t pre-approve recall fixes because federal law puts the burden on the automaker to develop and implement repairs. But she said the agency is keeping its investigation open and will monitor Tesla’s software or hardware fixes to make sure they work by testing them at NHTSA’s research and testing center in Ohio, where it has several Teslas available.
+
+The agency received the software update on its vehicles only a few days ago and has yet to evaluate them, Morales said. The remedy must also address crashes on all roads, including highways, the agency said.
+
+Cummings, a former NHTSA special adviser who is set to be an expert witness for the plaintiff in an upcoming Florida lawsuit against Tesla, said she expects Tesla’s warnings to deter a small number of drivers from abusing Autopilot. But the problems for Tesla, Cummings said, won’t end until it limits where the system can be used and fixes its computer vision system so it better detects obstacles.
